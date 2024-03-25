@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Páscoa</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <div>   
+        <div class="logo">
+            <img src="logo.png" width="200"/>
+        </div>
+    </div>
+
+    <div class="bar"></div>
+
+    <div class="content">
+        <div class="sidebar">
+            <h2>Conteúdo</h2>
+            <ul>
+                <li><a href="#origens">Origens</a></li>
+                <li><a href="#páscoa-cristã">Páscoa Cristã</a></li>
+                <li><a href="#tradições-símbolos">Tradições e Símbolos</a></li>
+                <li><a href="#variações-culturais">Variações Culturais</a></li>
+                <li><a href="#conclusão">Conclusão</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <section id="origens">
+                <h2>Origens</h2>
+                <p>A Páscoa tem suas raízes na festa judaica de Pessach, que remonta à libertação dos israelitas da escravidão no Egito, conforme narrado no Antigo Testamento da Bíblia. A narrativa bíblica descreve as pragas enviadas por Deus ao Egito e a subsequente libertação dos hebreus liderados por Moisés. A celebração da Páscoa judaica inclui o Seder, uma refeição cerimonial com alimentos simbólicos e leituras específicas.</p>
+            </section>
+
+            <section id="páscoa-cristã">
+                <h2>Páscoa Cristã</h2>
+                <p>Para os cristãos, a Páscoa é uma festividade que celebra a ressurreição de Jesus Cristo. De acordo com o Novo Testamento, Jesus foi crucificado e ressuscitou no terceiro dia após sua morte, estabelecendo a Páscoa como um momento de renovação espiritual e esperança para os cristãos em todo o mundo.</p>
+            </section>
+
+            <section id="tradições-símbolos">
+                <h2>Tradições e Símbolos</h2>
+                <p>A Páscoa é marcada por uma variedade de tradições e símbolos em diferentes culturas ao redor do mundo. Alguns dos símbolos mais comuns incluem ovos de Páscoa, que simbolizam fertilidade e renovação, e o coelho da Páscoa, que representa a chegada da primavera e a abundância.</p>
+            </section>
+
+            <section id="variações-culturais">
+                <h2>Variações Culturais</h2>
+                <p>A forma como a Páscoa é celebrada varia amplamente de acordo com as tradições e crenças locais. Em países cristãos, a Páscoa é observada com fervor religioso, incluindo serviços especiais nas igrejas e tradições como a caça aos ovos. Já em regiões seculares, a Páscoa pode ser mais uma celebração cultural, envolvendo atividades como troca de presentes e eventos comunitários.</p>
+            </section>
+
+            <section id="conclusão">
+                <h2>Conclusão</h2>
+                <p>A Páscoa continua a ser uma das festividades mais importantes e amplamente celebradas em todo o mundo, unindo pessoas de diferentes origens e crenças em torno de temas como renovação, esperança e união familiar. Seja através de práticas religiosas profundamente enraizadas ou de tradições culturais mais modernas, a Páscoa permanece como uma ocasião de significado e importância para milhões de pessoas a cada ano.</p>
+            </section>
+        </div>
+
+        <div class="anchors">
+            <h2>Neste Artigo</h2>
+            <ul>
+                <li><a href="#origens">Origens</a></li>
+                <li><a href="#páscoa-cristã">Páscoa Cristã</a></li>
+                <li><a href="#tradições-símbolos">Tradições e Símbolos</a></li>
+                <li><a href="#variações-culturais">Variações Culturais</a></li>
+                <li><a href="#conclusão">Conclusão</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 - Página da Wikipédia sobre a Páscoa</p>
+    </div>
+</body>
+</html>
